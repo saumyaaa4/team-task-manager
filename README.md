@@ -1,5 +1,4 @@
 <div align="center">
-
 # ⚡ Team Task Manager
 
 **A production-ready, full-stack task management platform**  
