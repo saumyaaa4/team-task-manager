@@ -15,7 +15,7 @@ const app = express();
 // CORS FIX (IMPORTANT)
 // =======================
 app.use(cors({
-  origin: "http://localhost:5173",
+  origin: ["http://localhost:5173", "https://saumya-tasks.surge.sh"],
   credentials: true
 }));
 
